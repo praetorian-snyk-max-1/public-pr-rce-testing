@@ -1,0 +1,15 @@
+/Users/siddhantkalgutkar/Documents/polyglot-snyk-test/dotnet/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp
+/Users/siddhantkalgutkar/Documents/polyglot-snyk-test/dotnet/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.deps.json
+/Users/siddhantkalgutkar/Documents/polyglot-snyk-test/dotnet/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.runtimeconfig.json
+/Users/siddhantkalgutkar/Documents/polyglot-snyk-test/dotnet/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.dll
+/Users/siddhantkalgutkar/Documents/polyglot-snyk-test/dotnet/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.pdb
+/Users/siddhantkalgutkar/Documents/polyglot-snyk-test/dotnet/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siddhantkalgutkar/Documents/polyglot-snyk-test/dotnet/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfoInputs.cache
+/Users/siddhantkalgutkar/Documents/polyglot-snyk-test/dotnet/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfo.cs
+/Users/siddhantkalgutkar/Documents/polyglot-snyk-test/dotnet/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/Users/siddhantkalgutkar/Documents/polyglot-snyk-test/dotnet/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.sourcelink.json
+/Users/siddhantkalgutkar/Documents/polyglot-snyk-test/dotnet/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.dll
+/Users/siddhantkalgutkar/Documents/polyglot-snyk-test/dotnet/MyConsoleApp/obj/Debug/net8.0/refint/MyConsoleApp.dll
+/Users/siddhantkalgutkar/Documents/polyglot-snyk-test/dotnet/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.pdb
+/Users/siddhantkalgutkar/Documents/polyglot-snyk-test/dotnet/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.genruntimeconfig.cache
+/Users/siddhantkalgutkar/Documents/polyglot-snyk-test/dotnet/MyConsoleApp/obj/Debug/net8.0/ref/MyConsoleApp.dll
